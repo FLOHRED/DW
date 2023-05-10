@@ -1,0 +1,52 @@
+body {
+    background-color: #F5F5F5;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.navBar {
+    width: 100%;
+    height: 80px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.enlace {
+    text-decoration: none;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.opcionMenu {
+    font-size: 20px;
+    margin: 0;
+}
+
+.opcionMenu:hover {
+    color: #FFA500;
+}
+
+
+
